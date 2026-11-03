@@ -29,7 +29,7 @@ req_cols = [
 # 🎨 INYECCIÓN DE ESTILOS CSS AVANZADOS Y CONTROL DE BRILLO
 # ==============================================================================
 st.set_page_config(
-    page_title="CyberEP",
+    page_title="CyberToolUPN",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -181,7 +181,7 @@ def main_streamlit_app():
         """
         <section class="cyber-heading">
             <small>CIBERDEFENSA</small>
-            <h1>CyberEP: Herramienta de detección de intrusiones de red utilizando XGBoost para la EIE</h1>
+            <h1>CyberToolUPN: Herramienta de detección de intrusiones de red utilizando XGBoost para la EIE</h1>
             <p>Analiza un flujo de red de forma individual o varios mediante un archivo CSV.</p>
             <div class="chips"><span>XGBoost</span><span>21 variables</span><span>10 clases</span></div>
         </section>
