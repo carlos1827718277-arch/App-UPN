@@ -29,7 +29,7 @@ req_cols = [
 # 🎨 INYECCIÓN DE ESTILOS CSS AVANZADOS Y CONTROL DE BRILLO
 # ==============================================================================
 st.set_page_config(
-    page_title="CyberUPN",
+    page_title="CyberEP",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded",
